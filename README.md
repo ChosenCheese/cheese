@@ -1,6 +1,6 @@
 <h1 align="center">Cheese's Website</h1>
 
-_A not so serious website developed by **[Cheese]**, me!_
+_A not so serious website developed by **Cheese**, me!_
 
 ---
 
