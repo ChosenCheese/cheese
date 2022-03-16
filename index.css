@@ -1,10 +1,10 @@
 body {
-	background-color: #000
+	background-color: #000000
 }
 
 #console {
 	font-family: courier, monospace;
-	color: #fff;
+	color: #ffffff;
 	width:750px;
 	margin-left:auto;
 	margin-right:auto;
